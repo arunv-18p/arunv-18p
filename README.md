@@ -1,4 +1,4 @@
-# ARUN V
+# Hi! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm ARUN V
 
 - 👨‍🎓 I'm a **Full Stack Developer & Software Engineer**
 - 💼 I’m happy to join a dynamic team and contribute my skills and experience
